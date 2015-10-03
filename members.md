@@ -41,7 +41,7 @@ Format:
 ```| <Your Name> | [<GitHub Username>](https://github.com/<GitHub Username>) | <Note Here> |```
 
 
-| **Name** | **GitHub** | **Notes** |
+| **Himanshu** | **himanshu721** | **I am comfortable with C and Python. In here to contribute to some data science projects,as well as webdevelopment and learn along the way.** |
 |:---------|:-----------|:----------|
 | Aaron Chaput | [achaput](https://github.com/achaput) | I know Java. I hoping to learn how to work on a large project. |
 | Aaron Killen | [akillen](https://github.com/akillen) | C#, VB.net enterprise experience. PHP in a past life. Currently learning Ruby and game dev. |
